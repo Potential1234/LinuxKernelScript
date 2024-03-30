@@ -58,7 +58,6 @@ echo
 sleep 5
 
 echo " ***** Kernel Updrade Successful *****"
-echo
 sleep 10
 echo
 reboot
